@@ -1,2 +1,2 @@
 # tutorial
-[structure_alg_2](https://github.com/InternLM/Tutorial/tree/camp4)
+[书生浦语大模型实战](https://github.com/InternLM/Tutorial/tree/camp4)
